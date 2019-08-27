@@ -11,7 +11,7 @@ import Grafica from './Grafica'
 class App extends Component {
   render () {
     return (
-        <BrowserRouter basename="/example/laravel-react/public">
+        <BrowserRouter>
       
           <div>
             <Header />
